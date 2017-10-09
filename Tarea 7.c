@@ -36,7 +36,7 @@ int num3=0;
                           }
 } else{
 
- printf("Los numeros deben ser mayores que 0 y diferentes entre sí.\n");
+ printf("Los numeros deben ser mayores que 0 y diferentes entre si.\n");
 }
   
   system("PAUSE");	
