@@ -16,11 +16,11 @@ int num3=0;
  
   printf("Este es un comparador de numeros que determinara cual de ellos es el menor.\n");
   
-  printf("Dame el primer numero:");
+  printf("Dame el primer numero y presiona enter:");
     scanf("%d", & num1);
-  printf("Dame el segundo numero:");
+  printf("Dame el segundo numero y presiona enter:");
     scanf("%d",& num2);
-  printf("Dame el tercer numero:");
+  printf("Dame el tercer numero y presiona enter:");
     scanf("%d",& num3);
  
  if(num1>0 && num2>0 && num3>0 && (num1!=num2) && (num1!=3) && (num2!=3))
