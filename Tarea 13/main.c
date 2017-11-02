@@ -1,6 +1,6 @@
 /*
-Manuel Iván Salgado Garduño 
-Computadoras y Programación
+Manuel IvÃ¡n Salgado GarduÃ±o 
+Computadoras y ProgramaciÃ³n
 Tarea #13
 */
 #include <stdio.h>
